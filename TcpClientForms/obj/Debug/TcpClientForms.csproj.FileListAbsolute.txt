@@ -1,0 +1,10 @@
+E:\samples\TcpClientForms\bin\Debug\TcpClientForms.exe.config
+E:\samples\TcpClientForms\bin\Debug\TcpClientForms.exe
+E:\samples\TcpClientForms\bin\Debug\TcpClientForms.pdb
+E:\samples\TcpClientForms\obj\Debug\TcpClientForms.csprojAssemblyReference.cache
+E:\samples\TcpClientForms\obj\Debug\TcpClientForms.Form1.resources
+E:\samples\TcpClientForms\obj\Debug\TcpClientForms.Properties.Resources.resources
+E:\samples\TcpClientForms\obj\Debug\TcpClientForms.csproj.GenerateResource.cache
+E:\samples\TcpClientForms\obj\Debug\TcpClientForms.csproj.CoreCompileInputs.cache
+E:\samples\TcpClientForms\obj\Debug\TcpClientForms.exe
+E:\samples\TcpClientForms\obj\Debug\TcpClientForms.pdb

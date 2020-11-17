@@ -1,0 +1,10 @@
+E:\samples\TcpServerForm\bin\Debug\TcpServerForm.exe.config
+E:\samples\TcpServerForm\bin\Debug\TcpServerForm.exe
+E:\samples\TcpServerForm\bin\Debug\TcpServerForm.pdb
+E:\samples\TcpServerForm\obj\Debug\TcpServerForm.csprojAssemblyReference.cache
+E:\samples\TcpServerForm\obj\Debug\TcpServerForm.Form1.resources
+E:\samples\TcpServerForm\obj\Debug\TcpServerForm.Properties.Resources.resources
+E:\samples\TcpServerForm\obj\Debug\TcpServerForm.csproj.GenerateResource.cache
+E:\samples\TcpServerForm\obj\Debug\TcpServerForm.csproj.CoreCompileInputs.cache
+E:\samples\TcpServerForm\obj\Debug\TcpServerForm.exe
+E:\samples\TcpServerForm\obj\Debug\TcpServerForm.pdb
